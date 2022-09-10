@@ -1,6 +1,6 @@
 - 👋 Hello World!, I’m @RashCodes
 - 👨‍🎓 Bachelor of Computer Science (Hons) Software Engineering.
-- 💞️ Hard skills: JAVA, HTML, CSS, PhP, JavaScript, Python, Firebase Console, (UI) Design.
+- 💞️ Hard skills: JAVA, HTML, CSS, PhP, JavaScript, Python, Firebase Console, (UI) Design, Prototype Sketch. 
 - 📱 I am interested in mobile application, websites, coding, software development, building projects from scratch.
 - 📱 I built my Final year Project (FYP) by using Java language and assisted by Firebase Database, to Implement the mobile application "PR-Speedy Pickup".
 - 👀 I am interested in PHP, and JS. Especially, Fully Back-End Development.
