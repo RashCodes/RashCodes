@@ -1,5 +1,5 @@
 - 👋 Hello World!, I’m @RashCodes
-- 👨‍🎓 Bachelor of Computer Science (Hons) Software Engineering.
+- 👨‍🎓 I am a final year Bachelor of Computer Science (Hons) Software Engineering. Seeking for (Internship) placement to improve my abilities and skills.
 - 💞️ Hard skills: HTML, CSS, JavaScript, Java, Firebase Console, (UX/UI) Design, Prototype Sketch. 
 - 📱 I am interested in Mobile Application, Websites, Coding, Software development, Building projects from Scratch.
 - 📱 I built my Final year Project (FYP) by using Java language and assisted by Firebase Database, to Implement the Mobile Application "PR-Speedy Pickup".
