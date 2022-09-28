@@ -4,7 +4,7 @@
 - 📱 I am interested in Mobile Application, Websites, Coding, Software development, Building projects from Scratch.
 - 📱 I built my Final year Project (FYP) by using Java language and assisted by Firebase Database, to Implement the Mobile Application "PR-Speedy Pickup".
 - 👀 I am interested in Python, PHP, GoLang.
-- 🌱 I am currently learning Fully Front-End Development.
+- 🌱 I am currently learning Full-Stack Development.
 - 📫 How to reach me! via Email.: "mrashad905@gmail.com" via WhatsApp.: "+601121251990"
 
 <!---
