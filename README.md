@@ -3,7 +3,7 @@
 - 💞️ Hard skills: HTML, CSS, JavaScript, Java, Firebase Console, (UX/UI) Design, Prototype Sketch. 
 - 📱 I am interested in Mobile Application, Websites, Coding, Software development, Building projects from Scratch.
 - 📱 I built my Final year Project (FYP) by using Java language and assisted by Firebase Database, to Implement the Mobile Application "PR-Speedy Pickup".
-- 👀 I am interested in Python, PHP.
+- 👀 I am interested in Python, PHP, GoLang.
 - 🌱 I am currently learning Fully Front-End Development.
 - 📫 How to reach me! via Email.: "mrashad905@gmail.com" via WhatsApp.: "+601121251990"
 
