@@ -1,4 +1,4 @@
-- 👋 Hello World!, I’m @RashCodes
+- 👋 Hello World
 - 👨‍🎓 I am a Final Year Student Bachelor of Computer Science (Hons) Software Engineering at CITY UNIVERSITY MALAYSIA. I am currently internship at KOLLECT-SYSTEM as Software Developer.
 - 💞️ Hard skills: HTML, CSS, JavaScript, Java, Firebase Console, UI-Design, Prototype Sketch. 
 - 📱 I am interested in Mobile Application, Websites, Coding, Software development, Building projects from Scratch.
