@@ -1,7 +1,7 @@
 - 👋 Hello World
 
 - Trainee as Front-End developer + Responsibilities included During my Internship ||
-Implementation with a developer team & Creating the UI Design for all 
+Implementation FrontEnd Part by React.JS with a developer team & Creating the UI Design for all 
 projects at the company using Figma Tool.
 
 - My name is Mohamed Rashad. I am a fresh graduate with a Bachelor of Computer Science (Hons)
