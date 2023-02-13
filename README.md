@@ -11,7 +11,9 @@ prototype tool. I currently reside in Malaysia. I have a unique perspective and 
 helps me develop innovative solutions and be an effective web developer. I have the ability to find solutions to
 any issues that may arise.
 
-- Seeking for an opportunity as Front-End Developer || UI Designer ~ Exspert in Figma Tool.
+
+- Seeking an opportunity as Front-End Developer || UI Designer ~ Exspert in Figma Tool.
+
 
 - 📱 I built my Final year Project (FYP) by using Java language and assisted by Firebase Database, to Implement the Mobile Application "PR-Speedy Pickup" with proper Documentation.
 - 📫 How to reach me! via Email.: "mrashad905@gmail.com" via WhatsApp.: "+601121251990"
