@@ -1,21 +1,10 @@
 - 👋 Hello World
 
-- Trainee as Front-End developer + Responsibilities included During my Internship ||
-Implementation FrontEnd Part by React.JS with a developer team & Creating the UI Design for all 
-projects at the company using Figma Tool.
+- My name is Mohamed Rashad. Fresh graduate with a Bachelor of Computer Science (Hons) in Software Engineering, 
+Junior Frontend Developer with 1 year of experience in HTML5, CSS, JavaScript, Bootstrap 5, Material UI, and an expert in CSS FlexBox / CSS Grid Layout. 
+an expert in ReactJS with styled and cleaned components for future use, hooks, and routes. an expert in UI design using Figma with skills in prototyping tools.
+- I built my Final year Project (FYP) by using Java language and assisted by Firebase Database, to Implement the Mobile Application "PR-Speedy Pickup" with proper Documentation.
 
-- My name is Mohamed Rashad. I am a fresh graduate with a Bachelor of Computer Science (Hons)
-in Software Engineering, with 1.5 years of experience in HTML, CSS, JavaScript, Bootstrap 5, and skills in CSS
-FlexBox / CSS Grid. [React.js], and skills in Components / Hooks / Routes. UI Design using Figma, and skills in
-prototype tool. I currently reside in Malaysia. I have a unique perspective and I am creatively inclined, which
-helps me develop innovative solutions and be an effective web developer. I have the ability to find solutions to
-any issues that may arise.
-
-
-- Seeking an opportunity as Front-End Developer || UI Designer ~ Exspert in Figma Tool.
-
-
-- 📱 I built my Final year Project (FYP) by using Java language and assisted by Firebase Database, to Implement the Mobile Application "PR-Speedy Pickup" with proper Documentation.
 - 📫 How to reach me! via Email.: "mrashad905@gmail.com" via WhatsApp.: "+601121251990"
 
 <!---
