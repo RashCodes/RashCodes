@@ -1,6 +1,6 @@
-I’m Mohamed Rashad, Graduated with a Bachelor’s Degree in Computer Science (Hons) in Software Engineering. After Graduating with an Information Technology (IT) Diploma.
+I’m Mohamed Rashad.
 
-I’m a Junior Frontend Developer Entry-Level with 1 year of experience ( 6 months of Internship & 6 months of Self-Learning) I continue gaining new skills on my own even if I am not part of an organization or teamwork. I have a unique perspective. I am creatively inclined, which helps me develop innovative solutions and be an effective Frontend Developer
+Nearly 2 years of valuable experience, including self-learning as a front-end developer, have passed for me. I've developed my knowledge and skills in several frontend development-related areas over the past few years, including HTML, CSS, JavaScript, ReactJs, ReduxJs, Integration APIs XML-Data & JSON, Material UI, Bootstrap5, and responsive design. Since I believe in lifelong learning and development in this quickly evolving field, I am passionate about staying up to date with the latest front-end technologies and best practices.
 
 - 📫 How to reach me! via Email.: "mrashad905@gmail.com" / via WhatsApp.: "+601121251990"
 
