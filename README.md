@@ -4,11 +4,13 @@ Nearly 2 years of valuable experience, including self-learning as a front-end de
 
 - 📫 How to reach me! via Email.: "mrashad905@gmail.com" / via WhatsApp.: "+601121251990"
 
-<img align="left" alt="HTML5" width="50px" src="https://github.com/RashCodes/RashCodes/assets/103131993/6de5edc8-87f2-4621-91cf-71ef1d73f4a8" />
-<img align="left" alt="CSS" width="50px" src="https://github.com/RashCodes/RashCodes/assets/103131993/36febcf1-fda1-4bb7-a9ae-ea3e93e5fd29" />
-<img align="left" alt="JavaScript" width="50px" src="https://github.com/RashCodes/RashCodes/assets/103131993/72cc1152-41a8-4e19-a0f2-46067db54da6" />
+<img align="left" alt="HTML5" width="40px" src="https://github.com/RashCodes/RashCodes/assets/103131993/6de5edc8-87f2-4621-91cf-71ef1d73f4a8" />
+<img align="left" alt="CSS" width="40px" src="https://github.com/RashCodes/RashCodes/assets/103131993/36febcf1-fda1-4bb7-a9ae-ea3e93e5fd29" />
+<img align="left" alt="JavaScript" width="40px" src="https://github.com/RashCodes/RashCodes/assets/103131993/72cc1152-41a8-4e19-a0f2-46067db54da6" />
+<img align="left" alt="React.js" width="40px" src="https://github.com/RashCodes/RashCodes/assets/103131993/c9b672fe-d34c-401e-80ff-ffe0f65204f9" />
 
 
+![science](https://github.com/RashCodes/RashCodes/assets/103131993/c9b672fe-d34c-401e-80ff-ffe0f65204f9)
 
 
 <!---
