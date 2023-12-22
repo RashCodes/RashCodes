@@ -8,12 +8,11 @@ Nearly 1 year of valuable experience, including self-learning as a front-end dev
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![React.js](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+
 ![API](https://img.shields.io/badge/API-%2300C7B7.svg?style=for-the-badge&logo=api)
 ![SQL](https://img.shields.io/badge/SQL-%23CC2927.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%231a202c.svg?style=for-the-badge&logo=tailwind-css&logoColor=61DAFB)
@@ -21,35 +20,6 @@ Nearly 1 year of valuable experience, including self-learning as a front-end dev
 ![Material-UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Responsive Web Design](https://img.shields.io/badge/Responsive%20Web%20Design-%2300C7B7.svg?style=for-the-badge&logo=responsive-design)
 
-<!-- Next.js -->
-<img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-
-<!-- React.js -->
-<img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js">
-
-<!-- Redux -->
-<img src="https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
-
-<!-- Angular -->
-<img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-
-<!-- API -->
-<img src="https://img.shields.io/badge/API-%2300C7B7.svg?style=for-the-badge&logo=api" alt="API">
-
-<!-- SQL -->
-<img src="https://img.shields.io/badge/SQL-%23CC2927.svg?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
-
-<!-- Tailwind CSS -->
-<img src="https://img.shields.io/badge/Tailwind%20CSS-%231a202c.svg?style=for-the-badge&logo=tailwind-css&logoColor=61DAFB" alt="Tailwind CSS">
-
-<!-- Bootstrap 5 -->
-<img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap 5">
-
-<!-- Material-UI -->
-<img src="https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material-UI">
-
-<!-- Responsive Web Design -->
-<img src="https://img.shields.io/badge/Responsive%20Web%20Design-%2300C7B7.svg?style=for-the-badge&logo=responsive-design" alt="Responsive Web Design">
 
 
 
