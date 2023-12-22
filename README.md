@@ -21,9 +21,9 @@ Nearly 1 year of valuable experience, including self-learning as a front-end dev
 ![Responsive Web Design](https://img.shields.io/badge/Responsive%20Web%20Design-%2300C7B7.svg?style=for-the-badge&logo=responsive-design)
 
 <div style="text-align: center">
-  <img src="https://github-readme-stats.vercel.app/api?username=&count_private=true&show_icons=true&theme=prussian" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=RashCodes&count_private=true&show_icons=true&theme=prussian" width="400">
 <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RashCodes&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </div>
 
 <!---
