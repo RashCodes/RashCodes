@@ -1,6 +1,6 @@
 I'm a passionate Software Developer specializing in Front-End Development.
 
-Nearly 1 year of valuable experience, including self-learning as a front-end developer, has passed for me. I've developed my knowledge and skills in several frontend development-related areas over the past few years, including | Javascript and Typescript | NextJS, ReactJS and Redux | Angular | REST API Integration | Tailwind and Bootstrap | Material UI and Responsive Web Design. Since I believe in lifelong learning and development in this quickly evolving field, I am passionate about staying up to date with the latest front-end technologies and best practices.
+Nearly 1 year of valuable experience, including self-learning as a front-end developer, has passed for me. I've developed my knowledge and skills in several frontend development-related areas over the past few years, including | Javascript and Typescript | NextJS, ReactJS and Redux | Angular | REST API Integration | SCSS | Tailwind and Bootstrap | Material UI and Responsive Web Design. Since I believe in lifelong learning and development in this quickly evolving field, I am passionate about staying up to date with the latest front-end technologies and best practices.
 
 - 📫 How to reach me! via Email.: "mrashad905@gmail.com" / via WhatsApp.: "+601121251990"
 
