@@ -14,6 +14,11 @@ Nearly 1 year of valuable experience, including self-learning as a front-end dev
 <img align="left" alt="Material-UI" width="40px" src="https://github.com/RashCodes/RashCodes/assets/103131993/6c093f25-26d3-4f4e-ae6f-6a9e91545cff" />
 <img align="left" alt="Bootstrap-5" width="40px" src="https://github.com/RashCodes/RashCodes/assets/103131993/fad1d264-8217-4df5-98da-d3234b7b3b33" />
 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
 
 
 <!---
