@@ -4,16 +4,6 @@ Nearly 1 year of valuable experience, including self-learning as a front-end dev
 
 - 📫 How to reach me! via Email.: "mrashad905@gmail.com" / via WhatsApp.: "+601121251990"
 
-<img align="left" alt="HTML5" width="40px" src="https://github.com/RashCodes/RashCodes/assets/103131993/6de5edc8-87f2-4621-91cf-71ef1d73f4a8" />
-<img align="left" alt="CSS" width="40px" src="https://github.com/RashCodes/RashCodes/assets/103131993/36febcf1-fda1-4bb7-a9ae-ea3e93e5fd29" />
-<img align="left" alt="JavaScript" width="40px" src="https://github.com/RashCodes/RashCodes/assets/103131993/72cc1152-41a8-4e19-a0f2-46067db54da6" />
-<img align="left" alt="React.js" width="40px" src="https://github.com/RashCodes/RashCodes/assets/103131993/c9b672fe-d34c-401e-80ff-ffe0f65204f9" />
-<img align="left" alt="Redux" width="40px" src="https://github.com/RashCodes/RashCodes/assets/103131993/54a84eba-9daf-47ab-856e-df9c63b0a994" />
-<img align="left" alt="API" width="40px" src="https://github.com/RashCodes/RashCodes/assets/103131993/5e363a4a-092e-4deb-8325-ce7866c90461" />
-<img align="left" alt="SQL" width="40px" src="https://github.com/RashCodes/RashCodes/assets/103131993/3ffddc3a-c18b-479b-8900-8f514bea7133" />
-<img align="left" alt="Material-UI" width="40px" src="https://github.com/RashCodes/RashCodes/assets/103131993/6c093f25-26d3-4f4e-ae6f-6a9e91545cff" /> 
-<img align="left" alt="Bootstrap-5" width="40px" src="https://github.com/RashCodes/RashCodes/assets/103131993/fad1d264-8217-4df5-98da-d3234b7b3b33" />
-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
