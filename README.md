@@ -20,19 +20,11 @@ Nearly 1 year of valuable experience, including self-learning as a front-end dev
 ![Material-UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Responsive Web Design](https://img.shields.io/badge/Responsive%20Web%20Design-%2300C7B7.svg?style=for-the-badge&logo=responsive-design)
 
-
-
-
 <div style="text-align: center">
   <img src="https://github-readme-stats.vercel.app/api?username=wsfuller&count_private=true&show_icons=true&theme=prussian" width="400">
 <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsfuller&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </div>
-
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsfuller&layout=compact&title_color=2ecc71&text_color=95a5a6&icon_color=3498db&bg_color=2c3e50" />
-
 
 <!---
 RashCodes/RashCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
